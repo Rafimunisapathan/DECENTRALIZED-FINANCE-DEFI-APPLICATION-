@@ -16,5 +16,9 @@
  A DEFI APPLICATION FOR LENDING AND BORROWING TOKENS WITH INTEREST RATES CALCULATED DYNAMICALLY
 I used Ethers.js for running my code 
   #OUTPUT#
+
+  ![Image](https://github.com/user-attachments/assets/9934aa79-1fe9-4d4d-a14c-dfa4bcf56c76)
+
+![Image](https://github.com/user-attachments/assets/b4bbac10-ba7d-4941-b00a-e624903191de)
   
 
