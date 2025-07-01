@@ -62,8 +62,3 @@ emit Repaid(msg.sender, msg.value);
 
     function calculateInterest(address user) public view returns (uint256) {
         Deposit memory dep = deposits
-
-# DECENTRALIZED FINANCE (DEFI) APPLICATION
- A DEFI APPLICATION FOR LENDING AND BORROWING TOKENS WITH INTEREST RATES CALCULATED DYNAMICALLY
-I used Ethers.js for running my code 
-  #OUTPUT#
